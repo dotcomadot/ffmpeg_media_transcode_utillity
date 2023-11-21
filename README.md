@@ -6,7 +6,7 @@ This batch script allows you to transcode video files in a specified folder usin
 
 1. **FFmpeg:**
    - Download and install FFmpeg from the official website: [FFmpeg Download](https://ffmpeg.org/download.html).
-   - Set the correct path to the FFmpeg executable in the script.
+   
 
 2. **Input Folder:**
    - Prepare a folder containing the video files you want to transcode.
@@ -18,7 +18,7 @@ This batch script allows you to transcode video files in a specified folder usin
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git https://github.com/dotcomadot/ffmpeg_media_transcode_utillity.git
    cd your-repository
 
 2. Configure the Script:
